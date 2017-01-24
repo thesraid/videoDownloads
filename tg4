@@ -1,0 +1,1 @@
+ffmpeg -i "http://c.brightcove.com/services/mobile/streaming/index/rendition.m3u8?assetId=5240247302001&pubId=1290862567001&videoId=5240225578001" output.ts

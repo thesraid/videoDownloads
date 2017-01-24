@@ -1,0 +1,1 @@
+avconv -i input.ts -vcodec copy -acodec copy output.mp4
