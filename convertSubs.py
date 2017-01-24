@@ -1,3 +1,8 @@
+#!/bin/python
+# -*- coding: utf-8 -*-
+# John Ó Ríordán
+# 12-12-1980
+
 import fileinput
 import re
  
