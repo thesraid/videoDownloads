@@ -1,1 +1,3 @@
+#!/bin/bash
+# John Ó Ríordán
 avconv -i input.flv -vcodec copy -acodec copy output.mp4
