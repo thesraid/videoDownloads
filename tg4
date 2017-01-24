@@ -1,1 +1,1 @@
-ffmpeg -i "http://c.brightcove.com/services/mobile/streaming/index/rendition.m3u8?assetId=5240247302001&pubId=1290862567001&videoId=5240225578001" output.ts
+ffmpeg -user-agent "User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36" -i "http://c.brightcove.com/services/mobile/streaming/index/rendition.m3u8?assetId=5240247302001&pubId=1290862567001&videoId=5240225578001" -c copy output.ts
