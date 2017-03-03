@@ -1,0 +1,2 @@
+#!/bin/bash
+grep -F -e .srt -e .vtt -e .sbv -e .lrc -e .smi -e .sami -e .ssa -e .ass -e .sub -e .smil -e .ttml -e .dfxp -e .xml -e .usf -e .idx -e .psb -e .usf -e .ssf $1
