@@ -1,1 +1,2 @@
-youtube-dl http://URL
+#!/bin/bash
+youtube-dl $1
